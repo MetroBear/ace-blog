@@ -1,1 +1,2 @@
-My first python project..
+My first python project.
+Today is Jan 16.
